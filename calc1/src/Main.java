@@ -1,6 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
+// автор: Байгильдина Наталья Григорьевна
 public class Main {
     public static void main(String[] args) {
         System.out.println("Введите математическую операцию через пробелы:");
